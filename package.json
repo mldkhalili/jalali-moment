@@ -1,6 +1,6 @@
 {
-  "name": "moment-jalaali",
-  "version": "0.10.0",
+  "name": "jalali-moment",
+  "version": "2024.04.02",
   "description": "Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js.",
   "author": {
     "name": "Milad Khalili",
@@ -26,13 +26,13 @@
     "prepublishOnly": "npm run build",
     "clean": "rimraf build"
   },
-  "homepage": "https://github.com/behrang/moment-jalaali",
+  "homepage": "https://github.com/mldkhalili/jalali-moment",
   "bugs": {
-    "url": "https://github.com/behrang/moment-jalaali/issues"
+    "url": "https://github.com/mldkhalili/jalali-moment/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/behrang/moment-jalaali.git"
+    "url": "git://github.com/mldkhalili/jalali-moment.git"
   },
   "devDependencies": {
     "chai": "^5.1.0",

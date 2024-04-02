@@ -14,4 +14,4 @@ if (!fs.existsSync(path.resolve(__dirname, 'build'))) {
 
 var result = before + jalaali + middle + momentJalaali + after
 
-fs.writeFileSync(path.resolve(__dirname, 'build', 'moment-jalaali.js'), result)
+fs.writeFileSync(path.resolve(__dirname, 'build', 'jalali-moment.js'), result)
